@@ -1,4 +1,4 @@
-# iOS Game
+# Coin Collecting iOS Game
 
 
 Simple Game coded in Swift using Xcode.
