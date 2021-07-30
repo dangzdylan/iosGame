@@ -1,7 +1,7 @@
-# iosGame
+# iOS Game
 
 
-Simple Game coded in Swift using Xcode
+Simple Game coded in Swift using Xcode.
 
 
 **Instructions**
